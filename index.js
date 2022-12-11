@@ -5,3 +5,6 @@ const integration2 =
 const integration = 'This is an integration commit';
 
 const hotfix = 'This is a hot fix commit';
+
+const nextLevelIntegrations = 'This is a next level integration';
+
