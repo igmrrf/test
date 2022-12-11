@@ -14,3 +14,5 @@ const online = 'This is also an online commit';
 
 const newChange = 'This is a new change';
 const eye = 'This is an eye conflict';
+
+const afterConflict = 'This is a change after the conflict fix';
