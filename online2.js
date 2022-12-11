@@ -1,1 +1,1 @@
-const online2 = 'This is online 2 fix';
+const online2 = 'This is also from online 2 fix sms conflict';
