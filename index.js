@@ -9,3 +9,5 @@ const payment = 'with change from payment & also from payment';
 const nextLevelIntegrations = 'This is a next level integration';
 const sms = 'another conflict & also from another conflict';
 const online = 'This is also an online commit';
+
+const newChange = 'This is a new change';
