@@ -8,3 +8,4 @@ const hotfix = 'This is a hot fix commit';
 
 const nextLevelIntegrations = 'This is a next level integration';
 
+const online = 'This is also an online commit';
